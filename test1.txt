@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 8067-42E4
+
+ Directory of C:\DavidsGames\GitLearningProject
+
+04/10/2025  01:22 PM    <DIR>          .
+04/10/2025  01:22 PM    <DIR>          ..
+04/10/2025  01:22 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  615,479,226,368 bytes free
